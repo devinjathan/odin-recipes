@@ -1,0 +1,16 @@
+
+#matchaTitle {
+    color: green;
+    background-color: beige;
+}
+.head {
+    color: brown;
+    background-color: lightseagreen;
+    text-align: center;
+    font-weight: 800;
+}
+.content {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;   
+    font-size: 18px;
+}
